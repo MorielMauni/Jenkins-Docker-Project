@@ -1,0 +1,51 @@
+pipeline {
+    agent any
+
+    environment {
+        DOCKER_PASSWORD = credentials('regustry-pass')
+    }
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building the application...'
+                sh '''
+                    ./jenkins/build/maven.sh mvn -B -DskipTests clean package
+                    ./jenkins/build/build.sh
+                '''
+            }
+            post {
+                success {
+                    archiveArtifacts artifacts: 'java-app/target/*.jar', fingerprint: true
+                    junit 'build/reports/**/*.xml'
+                }
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Testing the application...'
+                sh './jenkins/test/maven.sh mvn test'
+            }
+            post {
+                success {
+                    junit 'build/reports/**/*.xml'
+                }
+            }
+        }
+        
+        stage('Push') {
+            steps {
+                echo 'Pushing the application...'
+                sh './jenkins/push/push.sh'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploying the application...'
+                sh './jenkins/deploy/deploy.sh'
+            }
+        }
+    }
+}

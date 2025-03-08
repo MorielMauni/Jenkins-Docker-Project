@@ -1,0 +1,13 @@
+Started by user [8mha:////4GGJmjKgZFdIbiN+5Za2I9sT78oTzByLYn9jDbK4TOyVAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/ENV
+[ENV] $ /bin/sh -xe /tmp/jenkins15054802428365729532.sh
++ echo 1
+1
++ echo 1
+1
++ echo http://192.168.0.112:8080/job/ENV/1/
+http://192.168.0.112:8080/job/ENV/1/
++ echo ENV
+ENV
+Finished: SUCCESS

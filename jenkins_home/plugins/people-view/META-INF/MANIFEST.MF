@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: People View Plugin
+Specification-Version: 1.2
+Implementation-Title: People View Plugin
+Implementation-Version: 1.2
+Group-Id: io.jenkins.plugins
+Artifact-Id: people-view
+Short-Name: people-view
+Long-Name: People View Plugin
+Url: https://github.com/jenkinsci/people-view-plugin
+Plugin-Version: 1.2
+Hudson-Version: 2.452
+Jenkins-Version: 2.452
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/license/mit/
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/people-view-p
+ lugin
+Plugin-ScmTag: people-view-1.2
+Plugin-ScmUrl: https://github.com/jenkinsci/people-view-plugin
+Plugin-GitHash: 53db3fe82fb7b6e9040afeb5b385830197990ee1
+Implementation-Build: 53db3fe82fb7b6e9040afeb5b385830197990ee1
+

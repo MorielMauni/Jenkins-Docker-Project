@@ -1,0 +1,13 @@
+Started at Mon Mar 03 13:51:08 UTC 2025
+Checking ansible-test
+Checking backup-to-aws
+Deleting /var/jenkins_home/workspace/backup-to-aws on Jenkins
+Checking ENV
+Checking job-dsl
+Checking job_dsl_1
+Deleting /var/jenkins_home/workspace/job_dsl_1 on Jenkins
+Checking job_dsl_example
+Deleting /var/jenkins_home/workspace/job_dsl_example on Jenkins
+Checking maven
+Checking my-first-job
+Finished at Mon Mar 03 13:51:08 UTC 2025. 15ms

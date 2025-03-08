@@ -1,0 +1,11 @@
+Started by user [8mha:////4GGJmjKgZFdIbiN+5Za2I9sT78oTzByLYn9jDbK4TOyVAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins5868003472912038153.sh
++ NAME=Moriel
++ NAME
+/tmp/jenkins5868003472912038153.sh: 3: NAME: not found
++ date
++ echo Hello , The date and time is Sun Feb 23 00:21:51 UTC 2025
+Hello , The date and time is Sun Feb 23 00:21:51 UTC 2025
+Finished: SUCCESS

@@ -1,0 +1,19 @@
+Started by user [8mha:////4GGJmjKgZFdIbiN+5Za2I9sT78oTzByLYn9jDbK4TOyVAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/ENV
+[8mha:////4JrbFyhjvnVnuZo5jemsO8Bba4Tl2mSPmNbAbNpN2LlVAAAAqx+LCAAAAAAAAP9b85aBtbiIQSujNKU4P0+vIKc0PTOvWC8xrzgzOT8nv0gvMbkkEyjhCKb88ktSdwVsu2efuqidiYHRh4EDIu2ZUsIg5JOVWJaon5OYl64fXFKUmZduXVHEIAU1ODk/rzg/J1XPGUKDDGKAAEYmBoaKghIGlRRDAwPDFLM0XbO01BRdk5RUS11LC3NLXRND00QzI8NkE0MjcwC3qOeSrwAAAA==[0m[ENV] $ /bin/sh -xe /tmp/jenkins12688895253134878604.sh
++ echo The Build number is: 5
+The Build number is: 5
++ echo The Build ID is: 5
+The Build ID is: 5
++ echo The Build URL is: http://192.168.0.112:8080/job/ENV/5/
+The Build URL is: http://192.168.0.112:8080/job/ENV/5/
++ echo The Job Name is: ENV
+The Job Name is: ENV
++ echo *******************************
+*******************************
++ echo Eliya
+Eliya
++ echo Israel
+Israel
+Finished: SUCCESS

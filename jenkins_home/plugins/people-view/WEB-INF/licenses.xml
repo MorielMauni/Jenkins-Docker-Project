@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<l:dependencies xmlns:l='licenses' groupId='io.jenkins.plugins' artifactId='people-view' version='1.2'><l:dependency name='People View Plugin' groupId='io.jenkins.plugins' artifactId='people-view' version='1.2' url='https://github.com/jenkinsci/people-view-plugin'><l:description>The Jenkins Plugins Parent POM Project</l:description><l:license name='MIT License' url='https://opensource.org/license/mit/'/></l:dependency></l:dependencies>

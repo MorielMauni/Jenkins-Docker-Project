@@ -1,0 +1,41 @@
+commit 74c9910103079b7021b55bd48893010ff1c3593e
+tree 8b5812038699db785c71ee87e245f53972b22ad0
+parent 28f54e6ed13f7815d82fc6a86c309d236c87c85d
+author moriel <moriel@localhost.localdomain> 2025-03-07 07:17:29 -0500
+committer moriel <moriel@localhost.localdomain> 2025-03-07 07:17:29 -0500
+
+    post actions
+
+
+:100644 100644 ac48b721009ab9fc005b788ae8ca82c307af76cf ec00d514d92fa0fc46ce5ace86e34f89244192a4 M	Jenkinsfile
+commit 28f54e6ed13f7815d82fc6a86c309d236c87c85d
+tree 07a56006b79d6a0e5a6e2c8eb38d31e3c465a616
+parent 3ee6dee2ed33cb26156775a4593d48eeedff77a3
+author moriel <moriel@localhost.localdomain> 2025-03-07 07:15:49 -0500
+committer moriel <moriel@localhost.localdomain> 2025-03-07 07:15:49 -0500
+
+    post actions
+
+
+:100644 100644 3512245cddb269201e5f222545cac0dd3f1564b2 ac48b721009ab9fc005b788ae8ca82c307af76cf M	Jenkinsfile
+commit 3ee6dee2ed33cb26156775a4593d48eeedff77a3
+tree df44a713b92eb1aec44976b61502f423f3eb5c7c
+parent 6ee05b5cf9e7f80a50fae02c3b6dab2384fe0118
+author moriel <moriel@localhost.localdomain> 2025-03-07 07:05:06 -0500
+committer moriel <moriel@localhost.localdomain> 2025-03-07 07:05:06 -0500
+
+    credntials
+
+
+:100644 100644 dea4e2dda7a139e65da45a2fe55b501d91b7b1b7 3512245cddb269201e5f222545cac0dd3f1564b2 M	Jenkinsfile
+commit 6ee05b5cf9e7f80a50fae02c3b6dab2384fe0118
+tree 413b38de486c27e49f7f3141ea92e49c2b229639
+parent eec77cd4940bdbbfc648102726b6744a9dcea200
+author moriel <moriel@localhost.localdomain> 2025-03-07 07:00:11 -0500
+committer moriel <moriel@localhost.localdomain> 2025-03-07 07:00:11 -0500
+
+    fixes
+
+
+:100755 100755 2af25db4ce23e2f7c5e1a6d19516e8fafb455746 5a68a51a60ae279523b7b94dee3e92a5ce9a826a M	jenkins/build/maven.sh
+:100755 100755 2af25db4ce23e2f7c5e1a6d19516e8fafb455746 5a68a51a60ae279523b7b94dee3e92a5ce9a826a M	jenkins/test/maven.sh

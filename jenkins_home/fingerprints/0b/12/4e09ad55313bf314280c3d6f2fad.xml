@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2025-03-03 10:06:28.325 UTC</timestamp>
+  <md5sum>0b124e09ad55313bf314280c3d6f2fad</md5sum>
+  <fileName>Credential id=moriel name=moriel/******</fileName>
+  <usages>
+    <entry>
+      <string>maven</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

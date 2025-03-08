@@ -1,0 +1,19 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/ENV
+[8mha:////4JNx64qWd3g9pRGYUoNEyfL1hO6/aYu838PnskP2tkz2AAAAqx+LCAAAAAAAAP9b85aBtbiIQSujNKU4P0+vIKc0PTOvWC8xrzgzOT8nv0gvMbkkEyjhCKb88ktSdwVsu2efuqidiYHRh4EDIu2ZUsIg5JOVWJaon5OYl64fXFKUmZduXVHEIAU1ODk/rzg/J1XPGUKDDGKAAEYmBoaKghIGFUOjtJRE87Qk3STLlFRdkxQjY11Lc/MUXdNkQ9Nks1RLM4tUSwA+gIxTrwAAAA==[0m[ENV] $ /bin/sh -xe /tmp/jenkins3980626337650502844.sh
++ echo The Build number is: 7
+The Build number is: 7
++ echo The Build ID is: 7
+The Build ID is: 7
++ echo The Build URL is: http://192.168.0.112:8080/job/ENV/7/
+The Build URL is: http://192.168.0.112:8080/job/ENV/7/
++ echo The Job Name is: ENV
+The Job Name is: ENV
++ echo *******************************
+*******************************
++ echo Eliya
+Eliya
++ echo Israel
+Israel
+Finished: SUCCESS
