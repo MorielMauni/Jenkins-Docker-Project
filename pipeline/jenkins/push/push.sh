@@ -4,8 +4,6 @@ echo "Pushing the image to Docker Hub..."
 
 IMAGE=maven-project
 DOCKER_USERNAME="taybot7@gmail.com"
-# DOCKER_PASSWORD="di227UScP]w%NRQv"
-
 
 echo "Logging in to Docker Hub..."
 docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
